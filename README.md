@@ -2,7 +2,7 @@
 ![MasterHead](https://shashwatco.com/wp-content/themes/shashwat/assets/img/shashwatProcess.gif)
 
 <h1 align="center">Hi 👋, I'm Himel Sarker</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Software developer from Bangladesh</h3>
 <p align="center"> <img  alt="Coding" width="450" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="himel-sarker" /> </p>
@@ -11,20 +11,20 @@
 
 - 🔭 I’m currently working on **Hospital Management System**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js, C#**
 
-- 💬 Ask me about **Php, laravel, React etc**
+- 💬 Ask me about **Php, laravel, React js, .Net **
 
-- 📫 How to reach me **himelsarker85@gmail.com**
+- 📫 How to reach me **himelsarker.softdev@gmail.com**
 
 - ⚡ Fun fact **I think am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/himel_sarker1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himel_sarker1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himel sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himel sarker" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/himelsarker01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/himelsarker01/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/learnfacts hs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnfacts hs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himel-sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himel sarker" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/himelsarker0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/himelsarker0/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/EdTechifyio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="EdTechify IO" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
