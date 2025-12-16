@@ -2,7 +2,7 @@
 ![MasterHead](https://shashwatco.com/wp-content/themes/shashwat/assets/img/shashwatProcess.gif)
 
 <h1 align="center">Hi 👋, I'm Himel Sarker</h1>
-<h3 align="center">A Passionate Software Developer From Bangladesh</h3>
+<h3 align="center">Software Developer From Bangladesh</h3>
 <p align="center"> <img  alt="Coding" width="450" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="himel-sarker" /> </p>
