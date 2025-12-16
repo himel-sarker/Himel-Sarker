@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="himel-sarker" /> </p>
 
-- 🔭 I’m currently working on ERP Project
+- 🔭 I’m currently working on **ERP Project**
 
-- 🌱 I’m currently learning React js, C#
+- 🌱 I’m currently learning **React js, C#**
 
-- 💬 Ask me about C#, Php and JS
+- 💬 Ask me about **C#, Php and JS**
 
 - 📫 How to reach me **himelsarker.softdev@gmail.com**
 
